@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring SOC Analyst • Cybersecurity & Ethical Hacking learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saddam-cybersec" alt="saddam-cybersec" /></a> </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5978359" style='border:none;'></iframe>
 
 - 🔭 I’m currently working on [Doing TryHackMe rooms & HackTheBox (defensive & detection notes)](https://tryhackme.com/p/f.saddam319)
 
