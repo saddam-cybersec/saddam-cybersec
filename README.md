@@ -2,7 +2,19 @@
 <h3 align="center">Aspiring SOC Analyst • Cybersecurity & Ethical Hacking learner</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saddam-cybersec" alt="saddam-cybersec" /></a> </p>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5978359" style='border:none;'> </iframe>
+
+<!-- Simple, accessible iframe with performance and security attributes -->
+<iframe
+  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5978359"
+  title="TryHackMe public badges for user 5978359"
+  width="100%"
+  height="300"
+  style="border:0; display:block;"
+  loading="lazy"
+  referrerpolicy="no-referrer"
+  sandbox="allow-scripts allow-same-origin allow-popups"
+></iframe>
+
 
 - 🔭 I’m currently working on [Doing TryHackMe rooms & HackTheBox (defensive & detection notes)](https://tryhackme.com/p/f.saddam319)
 
