@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Doing TryHackMe rooms & HackTheBox (defensive & detection notes)](https://tryhackme.com/p/f.saddam319)
+- 🔭 I’m currently working on [Doing TryHackMe rooms & HackTheBox (defensive & detection notes)](https://tryhackme.com/p/saddam-cybersec)
 
 - 🌱 I’m currently learning **Learning hands-on with TryHackMe, HackTheBox, and online courses. I focus on detection, incident response, log analysis, and safe lab writeups.**
 
