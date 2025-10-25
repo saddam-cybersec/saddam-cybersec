@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SADDAM HUSSAIN</h1>
 <h3 align="center">Aspiring SOC Analyst • Cybersecurity & Ethical Hacking learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/239639309?v=4" alt="saddam-cybersec" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/239639309?v=4" alt="saddam-cybersec" height="30" width="40" /></a> </p>
 
 
 
