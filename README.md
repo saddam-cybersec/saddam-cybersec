@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SADDAM HUSSAIN</h1>
-<h3 align="center">Aspiring SOC Analyst • Cybersecurity & Ethical Hacking learner</h3>
+<h3 align="center">Aspiring SOC Analyst / Cybersecurity & Ethical Hacking learner</h3>
 
 
 
