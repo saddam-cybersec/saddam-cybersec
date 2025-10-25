@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm SADDAM HUSSAIN</h1>
 <h3 align="center">Aspiring SOC Analyst • Cybersecurity & Ethical Hacking learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saddam-cybersec" alt="saddam-cybersec" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/239639309?v=4" alt="saddam-cybersec" /></a> </p>
 
 
 
-- 🔭 I’m currently working on [Doing TryHackMe rooms & HackTheBox (defensive & detection notes)](https://tryhackme.com/p/saddam-cybersec)
+- 🔭 I’m currently working on [Doing TryHackMe rooms & HackTheBox (defensive & detection notes)](https://tryhackme.com/p/saddamcybersec)
 
 - 🌱 I’m currently learning **Learning hands-on with TryHackMe, HackTheBox, and online courses. I focus on detection, incident response, log analysis, and safe lab writeups.**
 
