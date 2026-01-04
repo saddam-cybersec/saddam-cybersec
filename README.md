@@ -3,7 +3,7 @@
   Aspiring SOC Analyst • Cybersecurity & Ethical Hacking learner
 </h3>
 
-- 🔭 I’m currently Working / [Doing TryHackMe rooms & HackTheBox (defensive &
+- 🔭 I’m currently working / [Doing TryHackMe rooms & HackTheBox (defensive &
 detection notes)](https://tryhackme.com/p/f.saddam319) - 🌱 I’m currently
 learning **Learning hands-on with TryHackMe, HackTheBox, and online courses. I
 focus on detection, incident response, log analysis, and safe lab writeups.** -
@@ -36,6 +36,9 @@ me **mail.cybersec92@gmail.com**
       height="40"
     />
   </a>
+
+  <br /><br />
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -53,6 +56,8 @@ me **mail.cybersec92@gmail.com**
     />
   </a>
   
+  <br /><br />
+
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img
@@ -62,6 +67,8 @@ me **mail.cybersec92@gmail.com**
       height="40"
     />
   </a>
+
+  <br /><br />
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
@@ -91,14 +98,8 @@ me **mail.cybersec92@gmail.com**
     />
   </a>
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
+<br /><br />
+
 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -155,6 +156,7 @@ me **mail.cybersec92@gmail.com**
       height="40"
     />
   </a>
+
 
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
